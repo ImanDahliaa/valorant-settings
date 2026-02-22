@@ -18,3 +18,9 @@ This repo stores my personal Valorant settings so I can easily refer back to the
 
 ## Keybinds
 ![Keybinds Screenshot](Screenshots/1.png)
+![Keybinds Screenshot](Screenshots/2.png)
+![Keybinds Screenshot](Screenshots/3.png)
+![Keybinds Screenshot](Screenshots/4.png)
+![Keybinds Screenshot](Screenshots/5.png)
+![Keybinds Screenshot](Screenshots/6.png)
+![Keybinds Screenshot](Screenshots/7.png)

@@ -50,3 +50,10 @@ Here are my Valorant keybind screenshots:
 
 ### Keybind 7
 ![Keybind 7](Screenshots/7.png)
+
+---
+
+## Copyright
+
+© 2026 Iman. All rights reserved.  
+This repository is for personal reference only. Screenshots and settings are my own gameplay configuration.

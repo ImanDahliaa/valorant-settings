@@ -17,10 +17,26 @@ This repo stores my personal Valorant settings so I can easily refer back to the
 - Graphics Quality: Low (for max FPS)
 
 ## Keybinds
-![Keybinds Screenshot](Screenshots/1.png)
-![Keybinds Screenshot](Screenshots/2.png)
-![Keybinds Screenshot](Screenshots/3.png)
-![Keybinds Screenshot](Screenshots/4.png)
-![Keybinds Screenshot](Screenshots/5.png)
-![Keybinds Screenshot](Screenshots/6.png)
-![Keybinds Screenshot](Screenshots/7.png)
+
+Here are my Valorant keybind screenshots:
+
+### Keybind 1
+![Keybind 1](Screenshots/1.png)
+
+### Keybind 2
+![Keybind 2](Screenshots/2.png)
+
+### Keybind 3
+![Keybind 3](Screenshots/3.png)
+
+### Keybind 4
+![Keybind 4](Screenshots/4.png)
+
+### Keybind 5
+![Keybind 5](Screenshots/5.png)
+
+### Keybind 6
+![Keybind 6](Screenshots/6.png)
+
+### Keybind 7
+![Keybind 7](Screenshots/7.png)

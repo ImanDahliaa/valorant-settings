@@ -18,8 +18,7 @@ Here’s my Valorant crosshair setup:
 ### Crosshair Code
 0;p;0;c;1;s;1;P;c;1;u;F88CCCFF;o;0.22;m;1;0t;1;0l;3;0v;3;0o;1;0a;1;0f;0;1b;0;A;c;7;u;F88CCCFF;h;0;d;1;0b;0;1o;0;1a;1;1m;0;1f;0;S;b;1;c;8;t;F88CCCFF;o;1
 
-## Video Settings
-![Resolution Screenshot](Screenshots/reso.png)
+---
 
 ## Video Settings
 - Resolution: 1440x1080

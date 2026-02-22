@@ -6,7 +6,9 @@ This repo stores my personal Valorant settings so I can easily refer back to the
 - DPI: 1600
 - Sensitivity: 0.17
 - Scoped Sensitivity: 1.1
+- ADS Sensitity Multiplier: 1.0
 - Polling Rate: 1000 Hz
+- Angle Snap: ON
 
 ## Crosshair
 ![Crosshair Screenshot](screenshots/crosshair.png)

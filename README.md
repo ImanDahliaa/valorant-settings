@@ -11,7 +11,10 @@ This repo stores my personal Valorant settings so I can easily refer back to the
 - Angle Snap: ON
 
 ## Crosshair
-![Crosshair Screenshot](screenshots/crosshair.png)
+![Crosshair Screenshot](Screenshots/crosshair.png)
+
+## Video Settings
+![Resolution Screenshot](Screenshots/reso.png)
 
 ## Video Settings
 - Resolution: 1440x1080
